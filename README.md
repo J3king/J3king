@@ -1,7 +1,12 @@
 ## Hi there 👋
         
-Myself Jatin Khandal 
-I'm pursuying Bachelor of computer science with Artificial intelligence & data science  from POORNIMA UNIVERSITY Jaipur.
-- 🔭 I’m currently working on PYTHON , MACHINE LEARNING and ARTIFICIAL INTELLIGENCE.
-- 🌱 I’m currently learning PYTHON , GITHUB , AI TOOLS AND MACHINE LEARNING. 
-- Additionaly I'm working on Sql, Power BI , and many for Data Analytics
+I'm Jatin Khandal
+🎓 I'm currently pursuing a Bachelor's in Computer Science with a specialization in Artificial Intelligence & Data Science at Poornima University, Jaipur.
+
+🔭 Actively working on projects in Python, Machine Learning, and Artificial Intelligence
+
+🌱 Currently exploring GitHub, AI Tools, and enhancing my skills in Python & ML
+
+📊 Also diving into Gradio , CV2 , Cvzone , Streamlit , Linux , SQL, Power BI, and other tools 
+
+🚀 Passionate about building real-world tech solutions and constantly learning to grow in the AI/ML domain!

@@ -13,4 +13,4 @@ I'm Jatin Khandal
 
 Connect with me :
 1. [![Peerlist](https://github-readme-badge.peerlist.io/api/jatinkhandal001?style=plastic)](https://peerlist.io/jatinkhandal001)
-2. [![Peerlist](https://github-readme-badge.linkedin/api/jatinkhandal001?style=plastic)](https://linkedin/jatinkhandal001)
+2.

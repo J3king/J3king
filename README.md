@@ -10,3 +10,7 @@ I'm Jatin Khandal
 📊 Also diving into Gradio , CV2 , Cvzone , Streamlit , Linux , SQL, Power BI, and other tools 
 
 🚀 Passionate about building real-world tech solutions and constantly learning to grow in the AI/ML domain!
+
+Connect with me :
+1. [![Peerlist](https://github-readme-badge.peerlist.io/api/jatinkhandal001?style=plastic)](https://peerlist.io/jatinkhandal001)
+2. [![Peerlist](https://github-readme-badge.linkedin/api/jatinkhandal001?style=plastic)](https://linkedin/jatinkhandal001)
